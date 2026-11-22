@@ -1,0 +1,59 @@
+[
+  {
+    "patient_id": "PAT_001",
+    "muscle_group": "Quadriceps femoris (vastus lateralis)",
+    "clinical_context": "Subacute post-stroke rehabilitation assessment during standardized isometric knee extension evaluating persistent right-sided lower-limb weakness and progressive myoelectric fatigue.",
+    "left_channel": {
+      "rms_uv": 123.6,
+      "mdf_hz": 78.4,
+      "mnf_hz": 91.2,
+      "fatigue_slope_hz_s": -0.32
+    },
+    "right_channel": {
+      "rms_uv": 86.4,
+      "mdf_hz": 61.8,
+      "mnf_hz": 73.5,
+      "fatigue_slope_hz_s": -0.74
+    },
+    "bilateral_symmetry_index_pct": 35.4,
+    "dominant_side": "right"
+  },
+  {
+    "patient_id": "PAT_002",
+    "muscle_group": "Quadriceps femoris (vastus lateralis)",
+    "clinical_context": "Six-month post-operative follow-up after left anterior cruciate ligament (ACL) reconstruction during standardized isometric knee extension testing to assess residual quadriceps asymmetry and endurance.",
+    "left_channel": {
+      "rms_uv": 141.6,
+      "mdf_hz": 76.5,
+      "mnf_hz": 89.4,
+      "fatigue_slope_hz_s": -0.14
+    },
+    "right_channel": {
+      "rms_uv": 158.4,
+      "mdf_hz": 81.2,
+      "mnf_hz": 94.6,
+      "fatigue_slope_hz_s": -0.09
+    },
+    "bilateral_symmetry_index_pct": 11.2,
+    "dominant_side": "right"
+  },
+  {
+    "patient_id": "PAT_003",
+    "muscle_group": "Lumbar paraspinal (erector spinae, L4-L5)",
+    "clinical_context": "Occupational ergonomics neuromuscular fatigue evaluation during a sustained static isometric trunk extension task following prolonged manual material handling.",
+    "left_channel": {
+      "rms_uv": 98.8,
+      "mdf_hz": 58.6,
+      "mnf_hz": 69.8,
+      "fatigue_slope_hz_s": -1.18
+    },
+    "right_channel": {
+      "rms_uv": 101.2,
+      "mdf_hz": 57.9,
+      "mnf_hz": 68.9,
+      "fatigue_slope_hz_s": -1.24
+    },
+    "bilateral_symmetry_index_pct": 2.4,
+    "dominant_side": "right"
+  }
+]
